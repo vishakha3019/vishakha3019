@@ -5,4 +5,4 @@ ________________________________________________________________________________
 🌱 I’m currently learning React.<br/>
 👯 I’m looking to collaborate on Website Applications.<br/>
 💬 Ask me about Web Development and this Tech field.<br/>
-📫 Reach to me by my Email Id : vishakha3019@gmail.com <br/>
+📫 Reach me by my Email Id : vishakha3019@gmail.com <br/>
