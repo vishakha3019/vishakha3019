@@ -23,4 +23,4 @@
 
 ### 📫 Connect
 - Email: vishakha3019@gmail.com
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/vishakha3012)
